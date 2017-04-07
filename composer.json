@@ -1,0 +1,7 @@
+{
+    "name": "gctools-hackathon-ircc/toggle_language",
+    "type": "elgg-plugin",
+    "require": {
+        "composer/installers": ">=1.0.8"
+    }
+}
